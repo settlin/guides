@@ -17,13 +17,13 @@
   "sendSuggestions":[
     {"url":"","title":"Tutorial" ,"type":"video"}
   ],
-   "buyerUnitOverview":[
+  "buyerUnitOverview":[
     {"url":"https://scribehow.com/embed-preview/Guide_to_Buyer_Units__J-WYqK9oTwqZS84bKr2IbQ?as=video","title":"Tutorial" ,"type":"video"}
   ],
-    "editBuyerDetails":[
+  "editBuyerDetails":[
     {"url":"https://scribehow.com/embed-preview/Editing_Buyer_Details__rbRcs7dgQZyv-9PHY3LFow?as=video","title":"Tutorial" ,"type":"video"}
   ],
-    "bookVisits":[
+  "bookVisits":[
     {"url":"","title":"Tutorial" ,"type":"video"}
-  ],
+  ]
 }
