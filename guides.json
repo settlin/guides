@@ -1,29 +1,30 @@
 {
   "buyerListPage": [
-    {"url": "", "title": "Tutorial","type":"video"}
+    {"url": "", "title": "Guide","type":"video"}
   ],
    "buyerPage": [
-    {"url": "https://scribehow.com/embed-preview/Guide_on_conversation_summary__8D6j8EtPQ5m6XDn8YSGhwg?as=video", "title": "Tutorial","type":"video"}
+    {"url": "", "title": "Guide","type":"video"}
   ],
    "unitPage": [
-    {"url": "https://scribehow.com/embed-preview/Guide_on_conversation_summary__8D6j8EtPQ5m6XDn8YSGhwg?as=video", "title": "Tutorial","type":"video"}
+    {"url": "", "title": "Guide","type":"video"}
   ],
    "conversationList": [
-    {"url": "https://scribehow.com/embed-preview/Guide_on_conversation_summary__8D6j8EtPQ5m6XDn8YSGhwg?as=video", "title": "Tutorial","type":"video"}
+    {"url": "https://rebrand.ly/convsumm", "title": "Guide","type":"video"}
   ],
   "setPreferences":[
-    {"url":"https://scribehow.com/embed-preview/Preferences_basic_guide__Aj6FJ1BCRg2I0BZQRPR7wg?as=video","title":"Tutorial" ,"type":"video"}
+    {"url":"https://rebrand.ly/prefinpu","title":"How to set preferences" ,"type":"video"},
+    {"url":"https://rebrand.ly/suggqueu","title":"How to send suggestions" ,"type":"video"}
   ],
   "sendSuggestions":[
-    {"url":"","title":"Tutorial" ,"type":"video"}
+    {"url":"","title":"Guide" ,"type":"video"}
   ],
   "buyerUnitOverview":[
-    {"url":"https://scribehow.com/embed-preview/Guide_to_Buyer_Units__J-WYqK9oTwqZS84bKr2IbQ?as=video","title":"Tutorial" ,"type":"video"}
+    {"url":"https://rebrand.ly/buyunit1","title":"Overview of Buyer Unit" ,"type":"video"}
   ],
   "editBuyerDetails":[
-    {"url":"https://scribehow.com/embed-preview/Editing_Buyer_Details__rbRcs7dgQZyv-9PHY3LFow?as=video","title":"Tutorial" ,"type":"video"}
+    {"url":"https://rebrand.ly/editbuye","title":"How to edit Buyer Details" ,"type":"video"}
   ],
   "bookVisits":[
-    {"url":"","title":"Tutorial" ,"type":"video"}
+    {"url":"","title":"Guide" ,"type":"video"}
   ]
 }
