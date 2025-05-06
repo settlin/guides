@@ -9,23 +9,24 @@
     {"url": "", "title": "Guide","type":"video"}
   ],
    "conversationList": [
-    {"url": "https://rebrand.ly/convsumm", "title": "Guide","type":"video"}
+    {"url": "https://2ly.link/26syQ", "title": "How to use conversation summary","type":"video"}
   ],
   "setPreferences":[
-    {"url":"https://rebrand.ly/prefinpu","title":"How to set preferences" ,"type":"video"},
-    {"url":"https://rebrand.ly/suggqueu","title":"How to send suggestions" ,"type":"video"}
+    {"url":"https://2ly.link/26syv","title":"How to set preferences" ,"type":"video"},
+    {"url":"https://2ly.link/26szg","title":"How to send suggestions" ,"type":"video"}
   ],
   "sendSuggestions":[
     {"url":"","title":"Guide" ,"type":"video"}
   ],
   "buyerUnitOverview":[
-    {"url":"https://rebrand.ly/buyunit1","title":"Overview of Buyer Unit" ,"type":"video"}
+    {"url":"https://2ly.link/26t07","title":"Overview of Buyer Unit" ,"type":"video"},
+    {"url":"https://2ly.link/26t3S","title":"How to edit Buyer Unit" ,"type":"video"}
   ],
   "editBuyerDetails":[
-    {"url":"https://rebrand.ly/editbuye","title":"How to edit Buyer Details" ,"type":"video"}
+    {"url":"https://2ly.link/26t0b","title":"How to edit Buyer Details" ,"type":"video"},
   ],
   "requestSection":[
-    {"url":"","title":"Guide" ,"type":"video"}
+    {"url":"https://2ly.link/26t1G","title":"How to view Requests" ,"type":"video"}
   ],
   "interestedUnits":[
     {"url":"","title":"Guide" ,"type":"video"}
