@@ -24,7 +24,28 @@
   "editBuyerDetails":[
     {"url":"https://rebrand.ly/editbuye","title":"How to edit Buyer Details" ,"type":"video"}
   ],
-  "bookVisits":[
+  "requestSection":[
+    {"url":"","title":"Guide" ,"type":"video"}
+  ],
+  "interestedUnits":[
+    {"url":"","title":"Guide" ,"type":"video"}
+  ],
+  "processDetails":[
+    {"url":"","title":"Guide" ,"type":"video"}
+  ],
+  "basicDetails":[
+    {"url":"","title":"Guide" ,"type":"video"}
+  ],
+  "agreementBlock":[
+    {"url":"","title":"Guide" ,"type":"video"}
+  ],
+  "buyerLoans":[
+    {"url":"","title":"Guide" ,"type":"video"}
+  ],
+  "suggestionHistory":[
+    {"url":"","title":"Guide" ,"type":"video"}
+  ],
+  "followupList":[
     {"url":"","title":"Guide" ,"type":"video"}
   ]
 }
